@@ -1,0 +1,6 @@
+int id prgLoadMore 0x7f050000
+int layout view_footer 0x7f020000
+int string lib_name 0x7f030000
+int style AppBaseTheme 0x7f040000
+int style AppTheme 0x7f040001
+int[] styleable LazyRestView { }
